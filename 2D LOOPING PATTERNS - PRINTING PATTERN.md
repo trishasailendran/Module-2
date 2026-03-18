@@ -36,7 +36,8 @@ for i in range(rows,0,-1):
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/c2d55029-730a-42ae-9912-31714fde4ad2)
+<img width="606" height="557" alt="image" src="https://github.com/user-attachments/assets/98ceee0a-f53e-4574-8ca2-d4a993fd088f" />
+
 
 ### RESULT
 Thus the Python program to print a downward pyramid star pattern using loops was executed successfully and the output was verified.
