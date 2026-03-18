@@ -34,7 +34,7 @@ for i in range(1,a+1):
 ```
 ### OUTPUT
 ```
-<img width="717" height="674" alt="image" src="https://github.com/user-attachments/assets/9f4fe8d1-051c-4a1f-98cd-f9981b7777d9" />
+<img width="717" height="674" alt="image" src="https://github.com/user-attachments/assets/9f4fe8d1-051c-4a1f-98cd-f9981b7777d9" /> 
 
 
 ```
